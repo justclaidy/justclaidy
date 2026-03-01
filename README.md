@@ -61,13 +61,3 @@
 </div>
 
 
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=justclaidy&theme=tokyonight&row=1&column=6&margin-w=10&margin-h=10" height="150"/>
-</div>
-
----
-  
