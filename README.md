@@ -1,6 +1,8 @@
 <h2 align="left">Hi 👋! My name is Claidy and I'm just trying to be better</h2>
 
-###
+---
+
+### 🛠 Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
@@ -36,23 +38,25 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=justclaidy&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://streak-stats.demolab.com?user=ТВОЙ_НИК&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=justclaidy&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
 ---
 
-## 🟢 Contribution Calendar
+## 🟢 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ТВОЙ_НИК&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=justclaidy&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
+
+### 🌍 Connect with me
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&style=for-the-badge" height="35"/>
